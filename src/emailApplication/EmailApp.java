@@ -9,7 +9,7 @@ public class EmailApp {
     private String email;
     private int defaultPasswordLength = 10;
     private String department;
-    private int mailBoxCapacity=500;
+    private int mailBoxCapacity=50;
     private String alternateEmail;
     private String companySuffix = "aeycompany.am";
 
